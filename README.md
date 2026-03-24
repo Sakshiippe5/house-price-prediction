@@ -30,3 +30,6 @@ An end-to-end machine learning pipeline to predict California house prices using
 - Median Income is the strongest predictor of house price (importance ~0.45)
 - Location (Latitude/Longitude) is the second most important factor
 - Tuned Random Forest achieves MAE of $31,320 on test data
+
+## 🚀 Live Demo
+👉 [Try the app here](https://house-price-prediction-mkutjq5v3pxqpagw9ogly3.streamlit.app)
